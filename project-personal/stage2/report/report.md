@@ -98,7 +98,7 @@ header-includes:
 
 ![добавление информации о владельце сайта](image/2.png){#fig:002 width=70%}
 
-3. Cоздаем пост по теме "Git. Version control systems" (рис. @fig:003) (рис. @fig:004)
+3. Cоздаем пост по теме "Git. Version control systems" (рис. @fig:003) (рис. @fig:004).
 
 ![создание поста Git](image/3.jpg){#fig:003 width=70%}
 
